@@ -1,0 +1,2 @@
+class AdminOrdersDetailsController < ApplicationController
+end
